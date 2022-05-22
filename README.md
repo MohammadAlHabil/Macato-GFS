@@ -45,7 +45,7 @@ The user logs into the platform and then selects the menu and book it, then dete
 
 
 **AS A USER**
-> Goal: Get directions for the restaraunt (Second feature)
+> Goal: Get Personal Chef
 1. Open the platform
 2. See the home page then link to menu page
 3. Browes the menu page and select a specific menu
